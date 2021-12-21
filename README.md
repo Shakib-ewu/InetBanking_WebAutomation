@@ -15,3 +15,9 @@
 ## Run the automation script:
 1. Open project folder and run TextNG.xml
 
+### <center><h2>Screenshots</h2></center>  
+### Extent-Report:  
+<img src="Pictures/Screenshot (420).png">
+<img src="Pictures/Screenshot (418).png">
+         
+
